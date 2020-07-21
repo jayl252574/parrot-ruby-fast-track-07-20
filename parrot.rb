@@ -1,3 +1,3 @@
-def say_parrot(sound = "Squawk!")
-  puts "Hello #{sound}!"
+def parrot
+  puts "squawk!"
 end
