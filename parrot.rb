@@ -1,5 +1,6 @@
 def parrot_sound
-  iteration do
-    puts "squawk!"
-  end
+ puts "squawk!"
+
 end
+
+parrot_sound
