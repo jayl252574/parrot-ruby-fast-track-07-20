@@ -1,4 +1,4 @@
-def parrot_sound(sound = "squawk!")
+def parrot_sound(sound = "Squawk!")
   puts sound
   return sound
 end
